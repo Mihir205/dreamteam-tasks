@@ -12,3 +12,9 @@ check all files
 5 level - 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 find -size 1033c
 6 level - HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+find / -type f -user bandit7 -group bandit6 -size 33c then search all files 
+7 level - morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+grep -w millionth data.txt
+8 level - dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+sort data.txt | uniq -u
+9 level - 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
