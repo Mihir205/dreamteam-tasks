@@ -18,3 +18,7 @@ grep -w millionth data.txt
 8 level - dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 sort data.txt | uniq -u
 9 level - 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+strings data.txt | grep =
+10 level - FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey 
+base64 -d data.txt
+11 level - dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
